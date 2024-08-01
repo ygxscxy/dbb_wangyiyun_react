@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact18_ts_music=self.webpackChunkreact18_ts_music||[]).push([[630],{630:function(e,u,c){c.r(u);var s=c(791),t=c(184),n=function(){return(0,t.jsx)("div",{children:"Album"})};u.default=(0,s.memo)(n)}}]);
+//# sourceMappingURL=630.a8b15b69.chunk.js.map
